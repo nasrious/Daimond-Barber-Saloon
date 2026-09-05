@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import type { ReactNode } from "react"
 
 export const metadata = { title: "sparkling-umbrella-269043.framer.app" }
